@@ -1,0 +1,18 @@
+LAPORAN MENU WARUNG
+
+Nama Warung  : Warung Bahari
+Total Menu   : 12 item tersedia
+----------------------------------------
+Daftar Menu Valid:
+- Nasi Goreng Spesial (Makanan) : Rp 18,000
+- Es Teh Manis (Minuman) : Rp 5,000
+- Ayam Bakar Madu (Makanan) : Rp 22,000
+- Jus Alpukat (Minuman) : Rp 10,000
+- Nasi Goreng Spesial (Makanan) : Rp 18,000
+- Es Teh Manis (Minuman) : Rp 5,000
+- Ayam Bakar Madu (Makanan) : Rp 22,000
+- Jus Alpukat (Minuman) : Rp 10,000
+- Nasi Goreng Spesial (Makanan) : Rp 18,000
+- Es Teh Manis (Minuman) : Rp 5,000
+- Ayam Bakar Madu (Makanan) : Rp 22,000
+- Jus Alpukat (Minuman) : Rp 10,000

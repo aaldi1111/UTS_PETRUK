@@ -1,0 +1,14 @@
+LAPORAN SUHU MINGGUAN
+Rata-rata suhu     : 31.14
+Suhu tertinggi     : 35 (Kamis)
+Suhu terendah      : 28 (Minggu)
+Jumlah hari Panas  : 3
+
+Detail per hari:
+  Senin   : 31 (Normal)
+  Selasa  : 33 (Panas)
+  Rabu    : 29 (Normal)
+  Kamis   : 35 (Panas)
+  Jumat   : 32 (Panas)
+  Sabtu   : 30 (Normal)
+  Minggu  : 28 (Normal)

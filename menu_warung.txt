@@ -1,0 +1,16 @@
+NamaMenu;Kategori;Harga
+Nasi Goreng Spesial;Makanan;18000
+Es Teh Manis;Minuman;5000
+Ayam Bakar Madu;Makanan;22000
+Jus Alpukat;Minuman;10000
+Data Rusak Contoh;Makanan;abc
+Nasi Goreng Spesial;Makanan;18000
+Es Teh Manis;Minuman;5000
+Ayam Bakar Madu;Makanan;22000
+Jus Alpukat;Minuman;10000
+Data Rusak Contoh;Makanan;abc
+Nasi Goreng Spesial;Makanan;18000
+Es Teh Manis;Minuman;5000
+Ayam Bakar Madu;Makanan;22000
+Jus Alpukat;Minuman;10000
+Data Rusak Contoh;Makanan;abc
